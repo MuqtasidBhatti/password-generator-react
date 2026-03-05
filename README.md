@@ -80,7 +80,7 @@ npm run build
 
 ## 📷 Preview
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ---
 
